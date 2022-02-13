@@ -9,7 +9,7 @@
   
   <img src ="https://img.shields.io/badge/nginx-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
