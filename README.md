@@ -5,7 +5,7 @@
 
 
 <img src ="https://img.shields.io/badge/nginx-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
-<img src ="https://img.shields.io/badge/apachtomcat-F8DC75?&style=for-the-badge&logo=apach tomcat&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Apache Tomcat-F8DC75?&style=for-the-badge&logo=apach tomcat&logoColor=white"/>
 
 <!--
 **Red-Gunny/Red-Gunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
