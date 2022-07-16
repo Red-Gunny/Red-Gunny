@@ -19,8 +19,15 @@
 
 <h2></h2>
 
-<h3 align="center"> 🧐 About Me </h3>
+<div align="center">
 
+<h3 align="center"> 🧐 About Me </h3>
+</br>
+
+![](https://img.shields.io/badge/Resume-000000?&style=square&logo=Notion&logoColor=white) 
+![](https://img.shields.io/badge/Blog-20C997?&style=square&logo=Velog&logoColor=white)
+
+</div>
 
 
 <h2></h2>
