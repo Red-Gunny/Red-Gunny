@@ -1,18 +1,33 @@
-### tech skills 🏃
-<img src ="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=Java&logoColor=white"/> <img src ="https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/> <img src ="https://img.shields.io/badge/springboot-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src ="https://img.shields.io/badge/nginx-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-### I have used
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<!--
-**Red-Gunny/Red-Gunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=780206&height=200&section=header&text=Red-Gunny&fontSize=60&animation=twinkling)
 
-Here are some ideas to get you started:
+<div align=center><h2>👋 Hi, I’m Geonui </br> </h2></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+<h3>🏃 Tech Stack </h3>
+</br>
+
+![](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/C-A8B9CC?&style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?&style=flat-square&logo=C%2B%2B&logoColor=white)
+</br>
+![](https://img.shields.io/badge/Springboot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?&style=flat-square&logo=Flutter&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white)
+</br>
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</br>
+</br>
+</div>
+
+<h2></h2>
+
+<h3 align="center"> 🧐 About Me </h3>
+
+
+
+<h2></h2>
+
+<div align="center">
+<h3> ✌ Special Record </h3>
+</br>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=redgun)](https://solved.ac/redgun)
+</div>
