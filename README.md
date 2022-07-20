@@ -25,7 +25,7 @@
 </br>
 
 ![](https://img.shields.io/badge/Resume-000000?&style=square&logo=Notion&logoColor=white) 
-![](https://img.shields.io/badge/Blog-20C997?&style=square&logo=Velog&logoColor=white)
+[![](https://img.shields.io/badge/Blog-20C997?&style=square&logo=Velog&logoColor=white)](https://velog.io/@red_gunny)
 
 </div>
 
