@@ -39,6 +39,9 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=redgun)](https://solved.ac/redgun)
 </br>
+<img width="358" alt="스크린샷 2024-10-31 오후 6 04 11" src="https://github.com/user-attachments/assets/edeb8537-7b72-418f-8693-203be4595561">
+</br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRed-Gunny&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
-<img width="360" alt="스크린샷 2024-10-31 오후 6 04 11" src="https://github.com/user-attachments/assets/edeb8537-7b72-418f-8693-203be4595561">
+
