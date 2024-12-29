@@ -8,10 +8,11 @@
 <h3>🏃 Tech Stack </h3>
 </br>
 
+
+<!-- 코틀린 이미지 ![](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat-square&logo=Kotlin&logoColor=white) -->
+<!-- 카프카 이미지 ![](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) --> 
 ![](https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white) 
-![](https://img.shields.io/badge/Kotlin-7F52FF?&style=flat-square&logo=Kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Springboot-6DB33F?&style=flat-square&logo=SpringBoot&logoColor=white)
-![](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white)
 </br>
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=orange) 
